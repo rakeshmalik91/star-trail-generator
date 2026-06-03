@@ -1,0 +1,2 @@
+# Exclude the lib folder from GitHub language statistics
+lib/** linguist-vendored
