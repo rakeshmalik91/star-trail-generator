@@ -1,0 +1,14 @@
+__pycache__/
+*.html
+
+**/*.db
+**/*_log.txt
+**/*.log
+**/.coverage
+
+data
+
+# Generic
+*.zip
+*.log
+.DS_Store
