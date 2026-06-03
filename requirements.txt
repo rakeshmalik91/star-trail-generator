@@ -1,0 +1,4 @@
+rawpy
+numpy
+Pillow
+opencv-python
